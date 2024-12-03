@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AdventofCode2024.Day_2.Part_1
+namespace AdventofCode2024.Day_1
 {
-    internal class d2p1
+    internal class D1p2
     {
-
     }
 }

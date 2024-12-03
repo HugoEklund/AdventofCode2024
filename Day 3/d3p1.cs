@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AdventofCode2024.Day_4.Part_1
+namespace AdventofCode2024.Day_3
 {
-    internal class d4p1
+    internal class D3p1
     {
 
     }
